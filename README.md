@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
@@ -94,3 +95,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# port-basic-tailwind
+Proyectos de prueba para trabajar con tailwindcss
+>>>>>>> 03b0fbaebe464c4d7fdb88d30d05f75ef9ec2078
